@@ -16,7 +16,6 @@ The objective was to build a production-ready data platform that ingests raw CRM
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
 ![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 &nbsp;
 
 &nbsp;
@@ -72,9 +71,7 @@ The final result is a scalable, structured, and production-ready data platform b
 ## 🧑‍💻 About Me
 &nbsp;&nbsp;&nbsp; I’m a passionate data enthusiast eager to expand my expertise beyond analytics into data engineering. This portfolio showcases my journey into the world of data warehousing, where I design ETL pipelines, build dimensional models, and integrate multiple data sources to create centralized repositories for analytics and reporting.
 
-
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-
 &nbsp;
 
 &nbsp;
